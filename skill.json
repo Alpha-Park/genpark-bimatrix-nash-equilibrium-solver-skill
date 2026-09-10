@@ -1,0 +1,14 @@
+{
+  "name": "genpark-bimatrix-nash-equilibrium-solver-skill",
+  "version": "1.0.0",
+  "description": "Bimatrix strategic game solver detecting pure Nash equilibria and computing mixed Nash equilibria for 2x2 matrix games.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "nash-equilibrium",
+    "game-theory",
+    "bimatrix-games",
+    "pure-nash",
+    "mixed-strategy"
+  ]
+}
